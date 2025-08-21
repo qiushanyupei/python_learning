@@ -1,0 +1,3 @@
+split_num = 0,tmp_m = 2
+python中不允许以上赋值写法，在python中被理解为先tmp_m=2,再split_num=(0，tmp_m)
+正确多值赋值：split_num,tmp_m = 0,2或直接分两行写
