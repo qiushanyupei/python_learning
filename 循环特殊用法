@@ -1,0 +1,4 @@
+一个index正序循环，另一个index倒序循环
+n = 5
+for i, k in zip(range(n), range(n, 0, -1)):
+    print(i, k)
