@@ -1,0 +1,2 @@
+Counter：用来计数计数，对一行有空格分隔的数字，结果是字典，key是出现的数字，value是出现的次数，按顺序添加key，而不是按大小
+cnt = Counter(map(int, input().split())
