@@ -1,4 +1,0 @@
-从包里import会自动从init.py中import，不会自动导入目录下的其他文件
-第一种便捷方法：
-在init.py中导入包内部的文件
-例如：from login import *
