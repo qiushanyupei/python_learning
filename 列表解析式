@@ -1,0 +1,1 @@
+ [(size,color) for color in colors for size in sizes]这种写法是color外层循环，size内层循环
