@@ -1,0 +1,1 @@
+asyncio是python中的一个高性能异步编程库，其中asyncio.Semaphore最多执行3个任务
